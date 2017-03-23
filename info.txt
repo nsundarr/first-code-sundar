@@ -1,0 +1,25 @@
+$ node -v
+$ npm -v
+
+install angular CLI
+npm install -g angular-cli
+or
+npm install -g @angular/cli
+
+$ ng version
+
+angular-cli has been renamed to @angular/cli. Please update your dependencies.
+
+npm install npm -g
+
+
+ng new MY_PROJECT
+cd MY_PROJECT
+ng serve
+http://localhost:4200/.
+
+
+To install angularEclipse
+> npm install -g angular-ide
+> ngide install /Development/angular-ide
+> ngide open Foo.ts
